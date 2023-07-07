@@ -2,7 +2,7 @@
 ```markdown
 # SQL Injection - User Password Extraction
 
-![SQL Injection](sql_injection_logo.png)
+![SQL Injection]
 
 ## Overview
 
@@ -18,7 +18,7 @@ The SQL Injection script is a Python script that performs SQL injection attacks 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/Madhav-Sai/Sql-detectionn.git
+git clone https://github.com/Madhav-Sai/Sql-detection.git
 ```
 
 2. Navigate to the project directory:
